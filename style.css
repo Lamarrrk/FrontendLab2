@@ -1,0 +1,66 @@
+.first_Switzerland {
+
+    position: relative;
+    margin-top: 20px;
+    width: 120px;
+    height: 120px;
+    background-color: #FF0000;
+
+}
+
+.first_vertical_line {
+
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    width: 20px;  
+    height: 60px; 
+    background-color: #FFFFFF;
+    border-radius: 2px;
+
+}
+
+.first_horizontal_line {
+
+    position: absolute;
+    left: 30px;
+    top: 50px;
+    width: 60px;  
+    height: 20px;   
+    background-color: #FFFFFF;
+    border-radius: 2px;
+
+}
+
+.second_Switzerland {
+
+    transform:translate(150px, -150px);
+    margin-top: 30px;
+    width: 120px;
+    height: 120px;
+    background-color: #FF0000;
+
+}
+
+.second_vertical_line{
+
+    transform: translate(50px, 10px);
+    width: 20px;  
+    height: 60px; 
+    background-color: #FFFFFF;
+    border-radius: 2px;
+
+}
+
+.second_horizontal_line {
+
+    transform: translate(30px, 50px);
+    width: 60px;  
+    height: 20px;   
+    background-color: #FFFFFF;
+    border-radius: 2px;
+        
+
+}
+
+
